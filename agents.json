@@ -1,0 +1,546 @@
+{
+    "Nokk":{
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "Denmark",
+        "Speciality":["Front Line", "Map Control"]
+    },
+    "Kapkan": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "Russia",
+        "Speciality":["Anti-Entry","Trapper"]
+      },
+      "Frost": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "Canada",
+        "Speciality":["Anti-Entry","Trapper"]
+      },
+      "Mute": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "United Kingdom",
+        "Speciality":["Anti-Gadget","Crowd Control"]
+      },
+      "Smoke": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "United Kingdom",
+        "Speciality":["Anti-Entry","Trapper"]
+      },
+      "Castle": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "USA",
+        "Speciality":["Anti-Entry","Support"]
+      },
+      "Pulse": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "USA",
+        "Speciality":["Intel","Support"]
+      },
+      "Doc": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "France",
+        "Speciality":["Support"]
+      },
+      "Rook": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "France",
+        "Speciality":["Support"]
+      },
+      "Sledge": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "United Kingdom",
+        "Speciality":["Breach","Anti-Gadget"]
+      },
+      "Thatcher": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "United Kingdom",
+        "Speciality":["Anti-Gadget","Support"]
+      },
+      "Ash": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "1/3",
+        "Year": "2015",
+        "Country": "USA",
+        "Speciality":["Breach","Front Line"]
+      },
+      "Thermite": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "USA",
+        "Speciality":["Breach","Support"]
+      },
+      "Twitch": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "France",
+        "Speciality":["Anti-Gadget","Intel"]
+      },
+      "Montagne": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "France",
+        "Speciality":["Intel","Support"]
+      },
+      "Glaz": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "Russia",
+        "Speciality":["Intel","Support"]
+      },
+      "Fuze": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "Russia",
+        "Speciality":["Anti-Gadget"]
+      },
+      "Jackal": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2016",
+        "Country": "Spain",
+        "Speciality":["Intel","Map Control"]
+      },
+      "Hibana": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "1/3",
+        "Year": "2016",
+        "Country": "Japan",
+        "Speciality":["Breach","Front Line"]
+      },
+      "Dokkaebi": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "1/3",
+        "Year": "2017",
+        "Country": "South Korea",
+        "Speciality":["Intel", "Map Control"]
+      },
+      "Zofia": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "3/1",
+        "Year": "2017",
+        "Country": "Poland",
+        "Speciality":["Breach","Anti-Gadget"]
+      },
+      "Ying": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2017",
+        "Country": "China",
+        "Speciality":["Front Line","Map Control"]
+      },
+      "Mira": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "3/1",
+        "Year": "2017",
+        "Country": "Spain",
+        "Speciality":["Intel","Support"]
+      },
+      "Ela": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2017",
+        "Country": "Poland",
+        "Speciality":["Crowd Control","Trapper"]
+      },
+      "Lesion": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2017",
+        "Country": "China",
+        "Speciality":["Anti-Entry","Trapper"]
+      },
+      "Caveira": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "1/3",
+        "Year": "2016",
+        "Country": "Brazil",
+        "Speciality":["Intel","Crowd Control"]
+      },
+      "Valkyrie": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2016",
+        "Country": "USA",
+        "Speciality":["Intel","Support"]
+      },
+      "Maverick": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2018",
+        "Country": "USA",
+        "Speciality":["Breach","Front Line"]
+      },
+      "Nomad": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2018",
+        "Country": "Morocco",
+        "Speciality":["Front Line","Map Control"]
+      },
+      "Gridlock": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "3/1",
+        "Year": "2019",
+        "Country": "Australia",
+        "Speciality":["Support","Map Control"]
+      },
+      "Amaru": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "Peru",
+        "Speciality":["Front Line","Map Control"]
+      },
+      "Clash": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "3/1",
+        "Year": "2018",
+        "Country": "United Kingdom",
+        "Speciality":["Intel","Crowd Control"]
+      },
+      "Kaid": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2018",
+        "Country": "Morocco",
+        "Speciality":["Anti-Entry","Anti-Gadget"]
+      },
+      "Mozzie": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "Australia",
+        "Speciality":["Anti-Gadget","Intel"]
+      },
+      "Warden": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "USA",
+        "Speciality":["Anti-Gadget","Intel"]
+      },
+      "Goyo": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "Mexico",
+        "Speciality":["Anti-Entry","Trapper"]
+      },
+      "Ace": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2020",
+        "Country": "Norway",
+        "Speciality":["Breach","Anti-Gadget"]
+      },
+      "Zero": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2020",
+        "Country": "USA",
+        "Speciality":["Anti-Gadget","Intel"]
+      },
+      "Flores": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2021",
+        "Country": "Argentina",
+        "Speciality": ["Anti-Gadget", "Intel"]
+      },
+      "Melusi": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "3/1",
+        "Year": "2020",
+        "Country": "South Africa",
+        "Speciality":["Intel","Crowd Control"]
+      },
+      "Oryx": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2020",
+        "Country": "Jordan",
+        "Speciality":["Support"]
+      },
+      "Aruni": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "3/1",
+        "Year": "2020",
+        "Country": "Thailand",
+        "Speciality":["Anti-Entry","Anti-Gadget"]
+      },
+      "Thunderbird": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2021",
+        "Country": "Canada",
+        "Speciality": ["Support"]
+      },
+      "Wamai": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "Kenya",
+        "Speciality":["Anti-Gadget","Trapper"]
+      },
+      "Fenrir": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2023",
+        "Country": "Sweden",
+        "Speciality": ["Trapper"]
+      },
+      "Brava": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "1/3",
+        "Year": "2023",
+        "Country": "Brazil",
+        "Speciality": ["Intel", "Anti-Gadget"]
+      },
+      "Solis": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2022",
+        "Country": "Colombia",
+        "Speciality": ["Intel", "Support"]
+      },
+      "Grim": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2022",
+        "Country": "Singapore",
+        "Speciality": ["Front Line", "Map Control"]
+      },
+      "Sens": {
+        "Position": ["Attacker"],
+        "Gender": "Transgender",
+        "Health/Speed": "1/3",
+        "Year": "2022",
+        "Country": "Belgium",
+        "Speciality": ["Support", "Map Control"]
+      },
+      "Azami": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2022",
+        "Country": "Japan",
+        "Speciality": ["Anti-Entry", "Support"]
+      },
+      "Thorn": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2021",
+        "Country": "Ireland",
+        "Speciality": ["Anti-Entry", "Trapper"]
+      },
+      "Osa": {
+        "Position": ["Attacker"],
+        "Gender": "Transgender",
+        "Health/Speed": "3/1",
+        "Year": "2021",
+        "Country": "Belgium",
+        "Speciality": ["Intel", "Support"]
+      },
+      "Iana": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2020",
+        "Country": "Netherlands",
+        "Speciality": ["Front Line", "Intel"]
+      },
+      "Kali": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2019",
+        "Country": "India",
+        "Speciality": ["Anti-Gadget", "Support"]
+      },
+      "Maestro": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2018",
+        "Country": "Italy",
+        "Speciality": ["Anti-Gadget", "Intel"]
+      },
+      "Alibi": {
+        "Position": ["Defender"],
+        "Gender": "Woman",
+        "Health/Speed": "1/3",
+        "Year": "2018",
+        "Country": "Libya",
+        "Speciality": ["Intel", "Trapper"]
+      },
+      "Lion": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2018",
+        "Country": "France",
+        "Speciality": ["Intel", "Map Control"]
+      },
+      "Finka": {
+        "Position": ["Attacker"],
+        "Gender": "Woman",
+        "Health/Speed": "2/2",
+        "Year": "2018",
+        "Country": "France",
+        "Speciality": ["Front Line", "Support"]
+      },
+      "Vigil": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2017",
+        "Country": "South Korea",
+        "Speciality": ["Anti-Gadget", "Crowd Control"]
+      },
+      "Echo": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2016",
+        "Country": "Japan",
+        "Speciality": ["Intel", "Crowd Control"]
+      },
+      "Capitao": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2016",
+        "Country": "Brazil",
+        "Speciality": ["Front Line", "Map Control"]
+      },
+      "Blackbeard": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2016",
+        "Country": "USA",
+        "Speciality": ["Support"]
+      },
+      "Buck": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2016",
+        "Country": "Canada",
+        "Speciality": ["Breach", "Support"]
+      },
+      "Jager": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "Germany",
+        "Speciality": ["Anti-Gadget", "Support"]
+      },
+      "Bandit": {
+        "Position": ["Defender"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2015",
+        "Country": "Germany",
+        "Speciality": ["Anti-Entry", "Anti-Gadget"]
+      },
+      "Blitz": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "2/2",
+        "Year": "2015",
+        "Country": "Germany",
+        "Speciality": ["Front Line", "Map Control"]
+      },
+      "Iq": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "1/3",
+        "Year": "2015",
+        "Country": "Germany",
+        "Speciality": ["Intel", "Support"]
+      },
+      "Tachanka": {
+        "Position": ["Attacker"],
+        "Gender": "Man",
+        "Health/Speed": "3/1",
+        "Year": "2015",
+        "Country": "Russia",
+        "Speciality": ["Intel", "Support"]
+      }
+}
